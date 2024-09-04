@@ -1,0 +1,33 @@
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.output{
+  color:aliceblue;
+  outline: none;
+  border: none;
+  width: 320px;
+  height: 70px;
+  font-size: 32px;
+  padding: 7px;
+  background-color: black;
+}
+button{
+  width: 84px;
+  height: 90px;
+  font-size: 26px;
+  background-color: rgb(172, 122, 219);
+
+}
+.operator{
+  background-color: brown;
+}
+.function{
+  background-color: aquamarine;
+}
+.functions{
+  background-color: red;
+}
